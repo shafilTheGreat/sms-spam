@@ -307,28 +307,6 @@ Potential improvements for this project include:
 * Building an API for real-time SMS classification.
 * Experimenting with modern NLP/deep-learning models.
 
----
-
-## 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mehedi-Hasan71/SMS-Spam-Classification-SVM/refs/heads/main/WhatsApp%20Image%202026-08-11%20at%2010.54.53%20PM.jpeg" 
-       alt="Profile" 
-       width="220" 
-       height="250">
-</p>
-
-<p align="center">
-  <strong>Md.Mehedi Hassan Ridoy</strong><br>
-  Undergraduate Student | Information and Communication Technology in BUP<br>
-  Interested in Data Science, Machine Learning & AI
-</p>
-
-### Connect With Me
-
-#mehedi71359091@gmail.com
-
----
 
 ## 📜 License
 
